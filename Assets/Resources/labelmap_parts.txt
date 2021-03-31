@@ -1,0 +1,16 @@
+item {
+  name: "part1"
+  id: 1
+  display_name: "part1"
+}
+item {
+  name: "part2"
+  id: 2
+  display_name: "part2"
+}
+item {
+  name: "part3"
+  id: 3
+  display_name: "part3"
+}
+

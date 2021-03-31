@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="laptar" size="1.500000 0.843750" />
+    <ImageTarget name="laptop_target_full_rack" size="1.000000 0.562500" />
+    <ImageTarget name="final_target" size="0.200000 0.140476" />
+    <ImageTarget name="all_rack" size="1.000000 0.750000" />
+    <ImageTarget name="rack1" size="1.000000 0.927389" />
+    <ImageTarget name="rack2" size="1.000000 0.945416" />
+    <ImageTarget name="rack_num" size="1.000000 1.333173" />
+    <ImageTarget name="rack" size="1.000000 1.333333" />
+    <ImageTarget name="tvstand2" size="1.000000 0.693075" />
+    <ImageTarget name="tvstand" size="1.000000 0.688076" />
+    <ImageTarget name="QR_code" size="0.150000 0.150000" />
+    <ImageTarget name="QR_code-jpg" size="0.300000 0.300000" />
+  </Tracking>
+</QCARConfig>
