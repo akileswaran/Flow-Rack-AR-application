@@ -8,10 +8,12 @@ This project has three main aspects:
   - It uses a Image based marker to recogonize and detect and track objects. The Engine detects and tracks the image by comparing extracted natural features from the camera image against a known target resource database. Once the Image Target is detected, Vuforia Engine will track the image and augment your content seamlessly.
   - The vuforia engine offers an cloud base feature extraction platform using which a database can be created and this database can then be packaged and downloaded into Unity.
 
+<p float="left">
+<img src="https://user-images.githubusercontent.com/62331013/113193892-c6843180-9260-11eb-8797-1cda541b5c0f.png" width="550" height="309"> 
+<img src="https://user-images.githubusercontent.com/62331013/113269011-51ecd980-92d8-11eb-9182-5f413c9957e7.jpg" width="309" height="550">
+</p>
 
-![image](https://user-images.githubusercontent.com/62331013/113193892-c6843180-9260-11eb-8797-1cda541b5c0f.png) 
 
-![unnamed](https://user-images.githubusercontent.com/62331013/113269011-51ecd980-92d8-11eb-9182-5f413c9957e7.jpg)
 
 
 2. IIot (Industry 4.0)
